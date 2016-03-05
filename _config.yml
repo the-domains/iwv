@@ -2,6 +2,7 @@ name: IWV
 favicon: null
 layout_spectrum: 0.03995553147979081
 typography_spectrum: 0.07732150913216174
+title: IWV
 cta:
   domain: null
   bucket: null
