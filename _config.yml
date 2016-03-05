@@ -1,0 +1,28 @@
+name: IWV
+favicon: null
+layout_spectrum: 0.03995553147979081
+typography_spectrum: 0.07732150913216174
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8116045137867332
+  lightness: 0.3834511076565832
+  saturation: 0.7908790952060372
+  rhythmicContrast: 0.8260046883951873
+purpose: []
